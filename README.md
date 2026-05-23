@@ -4,9 +4,10 @@
 
 A 2D top-down arcade space shooter game built in Java using the Swing and AWT frameworks. In this game, players pilot a spacecraft to navigate through space, destroy incoming hazards, collect vital supplies, and survive as long as possible to achieve the highest score.
 
-Create by: Group of students at PTIT - OOP:\n
-Nghiem Dinh Tam - B23DCKD059\n
-Nguyen Duc Thanh - B23DCKD063
+Create by: Group of students at PTIT - OOP:
+- Nghiem Dinh Tam - B23DCKD059
+- Nguyen Duc Thanh - B23DCKD063
+- And team UI - 3 Members: Long, Thanh, Uoc
 
 ## Game Concept
 
