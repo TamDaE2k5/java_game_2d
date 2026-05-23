@@ -64,7 +64,7 @@ public class GamePanel extends JPanel{
             }
         }else if(keyH.restartPressed){
             restartGame();
-            soundManager.stopPlaylist();
+//            soundManager.stopPlaylist();
 //            soundManager.playBGM("bg1.wav");
         }
     }

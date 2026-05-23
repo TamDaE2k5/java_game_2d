@@ -44,7 +44,7 @@ public class PlayerPlane extends Entity {
     public int currentHP, currentBullet, degree, timeWaitBullet;
     public void setDefaultValue(){
         x = 100; y = 100; speed = 5; sizeHeight = 40; sizeWith = 40;
-        currentBullet = 25; currentHP = 50;
+        currentBullet = 50; currentHP = 25;
         degree = 270; // !
         timeWaitBullet = 10;
     }
