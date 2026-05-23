@@ -4,6 +4,10 @@
 
 A 2D top-down arcade space shooter game built in Java using the Swing and AWT frameworks. In this game, players pilot a spacecraft to navigate through space, destroy incoming hazards, collect vital supplies, and survive as long as possible to achieve the highest score.
 
+Create by: Group of students at PTIT - OOP:
+Nghiem Dinh Tam - B23DCKD059
+Nguyen Duc Thanh - B23DCKD063
+
 ## Game Concept
 
 The game is themed around escaping "DEADLINE," represented as challenging and hostile entities in space. The player must use reflexes and strategic movement to dodge homing missiles, avoid explosive stars, shoot down incoming meteorites, and replenish resources such as ammunition and health before getting overwhelmed.
